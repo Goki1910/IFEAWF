@@ -1,0 +1,69 @@
+body{
+    text-align: center;
+    padding-top: 50px;
+    background:linear-gradient(purple,pink)fixed;
+    height:100vh;
+}
+.menu{
+    list-style-type: none;
+    position: fixed;
+    top: 0px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 25px;
+    cursor:pointer;
+    z-index:10;
+    background: white;
+    width:100%;
+    margin-top:0px;
+}
+.links{
+    display:inline;
+    padding-top: 50px;
+    padding-left: 50px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+}
+.links:hover{
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-decoration:underline;
+}
+
+h1{
+    font-family: 'Ysabeau Office', sans-serif;
+    font-size: 50px;
+}
+
+p{
+    font-size:30px;
+}
+img{
+border-radius:20px;
+}
+h2{
+    font-size:40px;
+}
+#ancora{
+font-size:50px;
+}
+a{
+    text-decoration: none;
+    color:black;
+}
+#lol{
+    height:400px;
+}
+#lil{
+    height: 2000px;
+    opacity: 0;
+}
+#Contato{
+    background:white;
+    font-size: 30px;
+}
+#Contato iframe{
+    width:100%;
+}
+.contact_1 h3{
+    display:inline;
+}
